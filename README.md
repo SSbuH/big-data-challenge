@@ -1,5 +1,10 @@
 # big-data-challenge
 
+Links to colab.ipynb for watches and luggage 
+watches: https://colab.research.google.com/drive/1XeoCZIjskmaxx-D5BIG3GPuL4o7zSq4Z#scrollTo=wSpEI6DhOtz3
+luggage: https://colab.research.google.com/drive/1gt0SdPKQ9J1e-dKJwk5RC54YWt8soCJz#scrollTo=-kVGAwMDUpjL
+
+
 Big Data Homework - "Alexa, can you handle big data?"
 
 Before You Begin
